@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+Contact Page
+{% endblock title %}
+
+{% block extrahead %}
+<link rel="stylesheet" href="{% static 'css/contact.css' %}">
+{% endblock extrahead %}
+
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Information</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to the CSS file -->
+</head>
+<body>
+    <div class="container">
+        <h1>Contact Information</h1>
+        <div class="contact-details">
+            <p><strong>Name:</strong> Mounananda Reddy</p>
+            <p><strong>Email:</strong> mounanandas@gamil.com</p>
+            <p><strong>Phone:</strong> +91 9986967888</p>
+            <p><strong>Address:</strong>Bengaluru-560068</p>
+        </div>
+    </div>
+</body>
+</html>
+{% endblock content %}
+
+
