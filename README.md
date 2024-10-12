@@ -4,21 +4,21 @@ This is my personal Portfolio Website where I showcase my projects, skills, and 
 
 ## Features:
 
-    About Me: A brief introduction to who I am, my background, and my career goals.
-    Projects: Displays my completed projects, including descriptions, images, and links to GitHub 
+About Me: A brief introduction to who I am, my background, and my career goals.
+Projects: Displays my completed projects, including descriptions, images, and links to GitHub 
 
 ## repositories:
 
-    Skills: A section highlighting my technical skills, programming languages, and frameworks I use.
-    Contact: Provides options to connect with me via social media or email.
+Skills: A section highlighting my technical skills, programming languages, and frameworks I use.
+Contact: Provides options to connect with me via social media or email.
 
 ## Technologies Used:
 
-    HTML5: For content structure.
-    CSS3: For styling and responsive layout design.
-    JavaScript: For adding interactive elements.
-    Django: (If used for backend)
-    AWS EC2: The site is deployed using an AWS EC2 instance.
+HTML5: For content structure.
+CSS3: For styling and responsive layout design.
+JavaScript: For adding interactive elements.
+Django: (If used for backend)
+AWS EC2: The site is deployed using an AWS EC2 instance.
 
 ## Screenshots:
 
